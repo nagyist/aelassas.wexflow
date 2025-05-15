@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
     <Platforms>AnyCPU;x64;x86</Platforms>
-	<Version>8.7.0</Version>
+	<Version>8.9.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
