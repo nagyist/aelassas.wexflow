@@ -33,6 +33,14 @@ Wexflow provides 100+ activities for different kind of tasks and allows custom i
 * Extensible
 * Supported Platforms: macOS, Linux, Windows, Docker
 
+## Support
+
+If this project has been valuable in your work or research, consider supporting its ongoing development and maintenance. You can contribute through [GitHub Sponsorship](https://github.com/sponsors/aelassas) (one-time or monthly), [PayPal](https://www.paypal.me/aelassaspp), or [Buy Me a Coffee](https://buymeacoffee.com/aelassas). Even a simple star on the GitHub repository helps spread the word, increases visibility and is greatly appreciated.
+
+<a href="https://github.com/sponsors/aelassas"><img src="https://aelassas.github.io/content/github-sponsor-button.png" alt="GitHub" width="210"></a>
+<a href="https://www.paypal.me/aelassaspp"><img src="https://aelassas.github.io/content/paypal-button-v2.png" alt="PayPal" width="208"></a>
+<a href="https://www.buymeacoffee.com/aelassas"><img src="https://aelassas.github.io/content/bmc-button.png" alt="Buy Me A Coffee" height="38"></a>
+
 ## Documentation
 
 1. [Installing](https://github.com/aelassas/wexflow/wiki/Installing)
@@ -112,12 +120,6 @@ Wexflow provides 100+ activities for different kind of tasks and allows custom i
     2. [C# client](https://github.com/aelassas/wexflow/wiki/C%23-Client)
     3. [PHP client](https://github.com/aelassas/wexflow/wiki/PHP-client)
 18. [Run from Source](https://github.com/aelassas/wexflow/wiki/Run-From-Source)
-
-## Support
-
-If you find this project helpful, consider buying me a coffee.
-
-<a href="https://www.buymeacoffee.com/aelassas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--
 ## Sponsors
